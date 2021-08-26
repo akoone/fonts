@@ -30,7 +30,3 @@ axes {
   min_value: 300.0
   max_value: 700.0
 }
-source {
-  repository_url: "https://github.com/Omnibus-Type/Rosario"
-  commit: "d19a08b76241ad4872ba94f014aaade586a35b4b"
-}
